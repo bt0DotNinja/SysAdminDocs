@@ -6,7 +6,7 @@ Vemos las herramientas básicas necesarias para participar en el taller de maner
 * Usando mumble
   * [Info mumble](https://wiki.mumble.info/wiki/Main_Page)
   * Instalación: 
-    * debian/ubuntu/mint: `sudo apt-get install mumble`
+    * Debian/ubuntu/mint: `sudo apt-get install mumble`
     * Fedora: `sudo dnf install mumble`
     * ArchLinux: `sudo pacman -S mumble`
   * Servidor mumble:http://mumble.espora.org
@@ -14,9 +14,9 @@ Vemos las herramientas básicas necesarias para participar en el taller de maner
 * ssh básico
   * [Que es SSH?](http://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-rg-es-4/ch-ssh.html)
   * Instalación: 
-    * debian/ubuntu/mint: `sudo apt-get install openssh-client`
-    * Fedora: `sudo dnf install mumble`
-    * ArchLinux: `sudo pacman -S mumble`
+    * Debian/ubuntu/mint: `sudo apt-get install openssh-client`
+    * Fedora: `sudo dnf install openssh-clients`
+    * ArchLinux: `sudo pacman -S openssh`
 > Nota: Estos comandos instalan el cliente [OpenSSH](http://www.openssh.org/) pero hay otras opciones de clientes, 
 > si sientes curiosidad por otras versiones visita [esta liga](https://en.wikipedia.org/wiki/Comparison_of_SSH_clients) 
   
