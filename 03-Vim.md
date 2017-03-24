@@ -10,9 +10,6 @@ El tema al ser amplio se recomienda el auto estudio en las referencias:
 
 # Instalacion
 
-Fedora:
-	sudo dnf install vim
-Debian:
-	sudo apt install vim
-ArchLinux:
-	sudo pacman -Sy vim
+* Fedora: `sudo dnf install vim`
+* Debian:`sudo apt install vim`
+* ArchLinux:`sudo pacman -Sy vim`

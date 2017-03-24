@@ -4,12 +4,9 @@ En el taller de SysAdmin usamos *GNU screen* como multiplexor de pantalla, vemos
 
 ## Instalacion:
 
-Fedora:
-	sudo dnf install screen
-Debian:
-	sudo apt install screen
-Arch:
-	sudo pacman -Sy screen
+* Fedora: `sudo dnf install screen`
+* Debian: `sudo apt install screen`
+* Archlinux: `sudo pacman -Sy screen`
 
 
 ## Comandos
