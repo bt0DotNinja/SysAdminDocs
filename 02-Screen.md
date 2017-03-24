@@ -9,7 +9,7 @@ Fedora:
 Debian:
 	sudo apt install screen
 Arch:
-	sudo pacman -Syu screen
+	sudo pacman -Sy screen
 
 
 ## Comandos
